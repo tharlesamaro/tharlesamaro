@@ -11,4 +11,4 @@
 
 ### Sobre mim 🚀
 
-Desenvolvedor web formado em Sistemas para Internet, com 13 anos de experiência em TI. Possuo amplo conhecimento em desenvolvimento web, com experiência adicional em Engenharia de Dados e Infraestrutura de Computadores. Já atuei como Desenvolvedor Full Stack, Analista de Sistemas, Líder de Projeto, DevOps e Consultor.
+Desenvolvedor web formado em Sistemas para Internet, com 13 anos de experiência em TI. Possuo amplo conhecimento em desenvolvimento web, com experiência adicional em Engenharia de Dados e Infraestrutura de Computadores. Já atuei como Desenvolvedor Full Stack, Analista de Sistemas, Líder de Projeto, DevOps e Consultor. Atualmente, estou cursando pós-graduação em Segurança da Informação, expandindo meus conhecimentos para incluir práticas avançadas de proteção de dados e sistemas.
