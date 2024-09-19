@@ -1,4 +1,4 @@
-## Olá mundo, eu sou [Tharles Amaro!](www.linkedin.com/in/tharlesamaro) 
+## Olá mundo, eu sou [Tharles!](www.linkedin.com/in/tharlesamaro) 
 
 <a href="www.linkedin.com/in/tharlesamaro">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
